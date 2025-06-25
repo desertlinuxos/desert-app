@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: DESERT App
+Label: DESERT App for Jammy
+Suite: stable
+Codename: jammy
+Date: Wed, 25 Jun 2025 18:59:09 UTC
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+MD5Sum:
+ 1e467781d20c8169390533ed00f6385d 8364 main/binary-amd64/Packages
+ a2ed78a5a4d683585229bb89c956519e 3043 main/binary-amd64/Packages.gz
+ ae2fdfc89bbec1f22179f2adc6fbc1bd 156 main/binary-amd64/Release
+ adc9405e9a7bdae105dd1fcaf1d41b03 6363 main/binary-i386/Packages
+ 7f5b0ed0b7df8866413d78dd316728be 2309 main/binary-i386/Packages.gz
+ 62f5a77b63fa3641001a1c78c94d0de3 155 main/binary-i386/Release
+SHA1:
+ b6173103fe013ad73e508db132768cb4632a14d7 8364 main/binary-amd64/Packages
+ d6e0631fd991f96dd7b9046515a924041eeed1a7 3043 main/binary-amd64/Packages.gz
+ f3eeb290b5678d9c990e4d4a94b30705bfe54995 156 main/binary-amd64/Release
+ 3899589c64c8b791a57d9e4b04671d76d166f531 6363 main/binary-i386/Packages
+ c0b8c5c3c46a8990fdc701672ff744117f4dd8a4 2309 main/binary-i386/Packages.gz
+ 2b8457b411470c789b7d37944a2521a9dfea0388 155 main/binary-i386/Release
+SHA256:
+ 5eaedbdc555e176c339f13781c0b9e9e11898a6af165af96b1b781e90e008fa5 8364 main/binary-amd64/Packages
+ bf8aaf3bff2ca30833a1b6a7cfab4d49aebcf55c1d52299480c280a590578062 3043 main/binary-amd64/Packages.gz
+ 8a8ebbef45b2b990e7c8f42dd9f51b104bdbe8ae6ab104b18c851fd057aa3e70 156 main/binary-amd64/Release
+ 3638108f20b3ed4c175ccbc9cb1a986f8d9f6d3c71807c4bebf478404f030a07 6363 main/binary-i386/Packages
+ 016bb423255518b9fa48f30f2d87a2b346ef514c81d97db87f9e78d49a6be869 2309 main/binary-i386/Packages.gz
+ 5567e369eaa5e60c0568b83bd4e49aef50b34ff8cf5524b88018d7e4c5297b5e 155 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmhcRv0ACgkQmLLtIcxy
+XizJbg//QmQsninc08ikIcBHWBrKDQDl+Z37gS7q0L1iuWOe+4WpOLNfcR42JDOL
+huGD53Hk8UkXYMgUUGWOR1gTcL1EV07IX7UtzR3Ryc7mglXFmtREC7M8EOwWbzo0
+GJWnZRhnqD8Ya0IhyXIOIm1ttTSkMM6Fyyc27INyOGAN73bmwUgG0HcQnECysvNv
+1EncUazJtbjHomI1xOMYD7w07HANyHHChwOuH7dynwIyUPU0jyzCbz6H2GUHeEVl
++IvKKscrztpRiroKZPFK8ufY1Wm1nvniZajHbTAC6zTjUfs2ToOJpb7cvhZdD+Rk
+v4SesOqfCY0vWzNIW61ahn6Z/H01HKlCkM+XB4AQqVZrfWt2Vp49CG6JMQ022TcZ
+Mn/P7MtzPAzlFCwg0YitnlLYk/6LTNQmdZ3O0UAYPCqhyc/BWOr04aCcvi8EjBzp
+WQhB+o/+cssH0MgoypI7uVDv1RLi+oftBIToAebQB/UXay/iHuE2J4yKuLD1dtMv
++bGBBd9ZEBJbCbPO70JivGKshZRSNvwqEu7BDTeJmPPd1O+OdWuZBcowYAyuLqLh
+UywlZiUf6tZvqutFWCr2Rp5EPz/jkaZAxD/vfzBxE2o1RT51sLSRIdB77vblH73c
+6qHPK/QNcnuKWDJmuB6fkmTDEUxyETAOnI9kaQZ/rKBcuqWQlgQ=
+=yuKz
+-----END PGP SIGNATURE-----
