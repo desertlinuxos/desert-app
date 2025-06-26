@@ -1,0 +1,29 @@
+Origin: DESERT App
+Label: DESERT App for Jammy
+Suite: stable
+Codename: jammy
+Date: Thu, 26 Jun 2025 23:56:58 UTC
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+MD5Sum:
+ c6dba9746efd175746b4271fdc3363fe 8357 main/binary-amd64/Packages
+ dc9c7336386dec4fbb03a6b19f9dc287 3033 main/binary-amd64/Packages.gz
+ ae2fdfc89bbec1f22179f2adc6fbc1bd 156 main/binary-amd64/Release
+ e52bfdeddbbf0483af5b5dfeb0f07526 6356 main/binary-i386/Packages
+ 38181960c635aa565688d9f0c091947c 2298 main/binary-i386/Packages.gz
+ 62f5a77b63fa3641001a1c78c94d0de3 155 main/binary-i386/Release
+SHA1:
+ deb5266ae36b72a282f5aa3fd684f788324b23b0 8357 main/binary-amd64/Packages
+ 7d62e13eab1935d9292deb417e7c377487ec0d53 3033 main/binary-amd64/Packages.gz
+ f3eeb290b5678d9c990e4d4a94b30705bfe54995 156 main/binary-amd64/Release
+ 6dcb4b38ee2b164ef5abede6680dba696f213687 6356 main/binary-i386/Packages
+ 32473ea8a56a771ca06e96d48b0f4e5f83165d5b 2298 main/binary-i386/Packages.gz
+ 2b8457b411470c789b7d37944a2521a9dfea0388 155 main/binary-i386/Release
+SHA256:
+ fe4a0d99e881c98792f02c5b09f606f1c9df05fe01643a592ea7fbe8d18d485a 8357 main/binary-amd64/Packages
+ 8face170704f7cd136cfa8080a0bcfe2f53b2ba2c86e8d010b6558f2a756fd58 3033 main/binary-amd64/Packages.gz
+ 8a8ebbef45b2b990e7c8f42dd9f51b104bdbe8ae6ab104b18c851fd057aa3e70 156 main/binary-amd64/Release
+ edd0c8876a80f506f9005b0c558750399647fce4c7746115147d3c2af6700de6 6356 main/binary-i386/Packages
+ cd642c35e9523e2b9897a917f8c485c9e31cb07cb713131aa1f3855ca3b22918 2298 main/binary-i386/Packages.gz
+ 5567e369eaa5e60c0568b83bd4e49aef50b34ff8cf5524b88018d7e4c5297b5e 155 main/binary-i386/Release
