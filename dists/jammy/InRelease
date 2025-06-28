@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: DESERT App
+Label: DESERT App for Jammy
+Suite: stable
+Codename: jammy
+Date: Sat, 28 Jun 2025 17:52:47 UTC
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+MD5Sum:
+ 02fcc4c8f58bee87fea20541c220190f 8356 main/binary-amd64/Packages
+ 53a7d373a99c463982347d5261a286d1 3040 main/binary-amd64/Packages.gz
+ ae2fdfc89bbec1f22179f2adc6fbc1bd 156 main/binary-amd64/Release
+ 6653135981f6fcfea1a39ecbf30957fd 6355 main/binary-i386/Packages
+ 88db5f8ac56452e5553e93002e55f22d 2304 main/binary-i386/Packages.gz
+ 62f5a77b63fa3641001a1c78c94d0de3 155 main/binary-i386/Release
+SHA1:
+ aba07d1fb33bf9248ebf2b9d527c54e77f218b19 8356 main/binary-amd64/Packages
+ eda58188252cb7830670235d493ebc83a4633fa9 3040 main/binary-amd64/Packages.gz
+ f3eeb290b5678d9c990e4d4a94b30705bfe54995 156 main/binary-amd64/Release
+ 49de89ece4f27508fc239039c2263a9db011ec5c 6355 main/binary-i386/Packages
+ ade27c3d69b7f3745a3815faf0e6f5b73256039c 2304 main/binary-i386/Packages.gz
+ 2b8457b411470c789b7d37944a2521a9dfea0388 155 main/binary-i386/Release
+SHA256:
+ f1ff0e1a45629ab98f00d0e2cbc6b157e7114b8a2c396c4999d9ebaa81b9acb2 8356 main/binary-amd64/Packages
+ 555b16129698210d798a604a8244fd34bcddd2a6b7cb4f4c8a0b268327ff79b7 3040 main/binary-amd64/Packages.gz
+ 8a8ebbef45b2b990e7c8f42dd9f51b104bdbe8ae6ab104b18c851fd057aa3e70 156 main/binary-amd64/Release
+ 4c5ca39d07d8b53fa513e56f48713e5def03ad669ba9e88a60bcbc6f35882cf6 6355 main/binary-i386/Packages
+ 28b7be3b7f164ae1ce84347b15406f50b79ba17b757f00053d90955d578129c5 2304 main/binary-i386/Packages.gz
+ 5567e369eaa5e60c0568b83bd4e49aef50b34ff8cf5524b88018d7e4c5297b5e 155 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmhgK+8ACgkQmLLtIcxy
+XizGoA//ehmw+4mvwg0+vL2If4J1qCmVBSf2OuTTyYDSVP0xe55rB4QXBVL3Ljj1
+oxRbiH8GxPqZ8cH8RRJ29Gi+JA0uUhAezGSWlhrAI+eG4YQad2kFg/XpF0nn7MxW
+e9TjpGv0I+KRKEf5K4FJ4HASVTtRgxNIK9k0IzsVbSbh1PCcDI3xM33GhXS7wrWv
+rPdnLwDHeG0iq0T306MqyEPcFO1YvHgmbpYsf7sfG7ejCL8OD/s5KP+1Vc1yjVlX
+sKrpnDuw/+RuwqIhxbAim05evNwoqv9NLl3h7/XVrzcn51o21hr5A+oTywMAnwkr
+y7UVouB7lDQExfl6pSTiUrDgV9qc2YDCJ/Q0m5u6ov+8voFvgtCiokZ0j3GyJLZb
+Z7IwM2XJKv6Yuo3jqGvYVCdIbrBXF19hFvcg4PUnJAgC7EwV/ZMZje/dreWHlaDq
+7TAHNzezAwZE90Kwt9f/tLjGrw9VXtGdcFROfrOTVOX//hWG1hg9xP11dLna5Cxm
+Mvhh1SVv7tdGFDoLBOZ9j7RKlg1mbCOBChWD6KAcqd4f+30ZS04koHM8KQPT1WHK
+XirrRokJaQwCw1/XakhsGdM0ssjKzGldver/hDLca04RQJ39ThW154zZbpw2fMhe
+emvD15v+z+Aw9ihIIaHMAphg+EzfHaWeym9jbIUkkcfwqLcOf+Y=
+=Id1s
+-----END PGP SIGNATURE-----

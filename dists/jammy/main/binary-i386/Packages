@@ -1,0 +1,163 @@
+Package: desert-about
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: python3
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-about/desert-about_3.0_all.deb
+Size: 7978
+SHA256: 5cd04f519c5313834e7cdedd3c2c6ab581760eb1dd456f3f90dbdc9ec4dad1dd
+SHA1: 15a67c18d74179c17455b1e99281e4d9441f5bce
+MD5sum: 8e09003e919e65e115b53f28e51895e5
+Description: Информация о системе
+
+Package: desert-appearance
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: conky-all, lua5.4
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-appearance/desert-appearance_3.0_all.deb
+Size: 454130
+SHA256: e26a520f616ea45a0ff7cc3eec3100b85dc9a9f87eba3877675d68ac676e9719
+SHA1: f76ec2305fa4b6d25f184c25c750ed59ca348a98
+MD5sum: 57cc4be439e9b617e8209f76c907270e
+Description: Смена оформления системы
+
+Package: desert-builder
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: memtest86+, coreutils, dialog, mkisofs | genisoimage, findutils, bash, passwd, sed, squashfs-tools, casper, rsync, mount, eject, libdebian-installer4, os-prober, user-setup, discover1 | discover, laptop-detect, syslinux, syslinux-common, isolinux, util-linux, aufs-tools | unionfs-fuse, dpkg-dev, policykit-1, python3:any (>= 3.3~), python3-gi, gir1.2-gtk-3.0, gir1.2-vte-2.91, plymouth-x11
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-builder/desert-builder_3.0_all.deb
+Size: 2070408
+SHA256: d1155337cfab9487c8337bc2446aaa29bdb09acd9949633440adc8eeb25e42c2
+SHA1: 5265f448400f878a971a8629d0678a1a393e0a4b
+MD5sum: 667fd526251004fb2e8f6183c447bedc
+Description: Программа для создания iso образа системы
+
+Package: desert-cleaner
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 3642
+Depends: policykit-1-gnome, gir1.2-vte-2.91, gir1.2-gtk-3.0, gir1.2-notify-0.7, gir1.2-soup-2.4, dconf-gsettings-backend | gsettings-backend
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-cleaner/desert-cleaner_3.0_all.deb
+Size: 49436
+SHA256: d3d4785e9f4a939d9c6ef077cc030f71c3fc63890d7af34968fb8ce3a38793b7
+SHA1: 1bed11e9c44bb6506d48243ed4aeddf2c45b536f
+MD5sum: 573f8bb6cbdef111c9367a64953da88c
+Description: Очистка системы от мусора и ненужных файлов
+
+Package: desert-compton-settings
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: desert-appearance
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-compton-settings/desert-compton-settings_3.0_all.deb
+Size: 5554
+SHA256: 0f0554e608b383be2749dbf805a80b39461b1cb03cc012fb157d2164bc274da9
+SHA1: 59514a86fe2f9442054e805aa9744193946163b3
+MD5sum: 9876d7e264ebea9ae9cb3835bab2221f
+Description: Настройки Compton
+
+Package: desert-computer
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 154
+Depends: python3-gi, python3 (>= 3.5), gir1.2-glib-2.0, gir1.2-gtk-3.0
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-computer/desert-computer_3.0_all.deb
+Size: 9436
+SHA256: a8a1273e96b0cdbc924fde720b4e76b9876fed3ae4931f676fda6b7f872772bf
+SHA1: b2a6c4b096169cae2843dd9b4bf75571ecbde7ad
+MD5sum: e156d137b669c6c1b0e4424a023120ca
+Description: Информация о дисках и съёмных устройствах
+
+Package: desert-deb-installer
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 250
+Depends: python3 (>= 3.5)
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-deb-installer/desert-deb-installer_3.0_all.deb
+Size: 57334
+SHA256: 8f3f2f1db69a4a9053fbb3a214ecbb5696a6711e7f381da83c6492f4eb2b7885
+SHA1: 3318090c456b063c54d5809c2bb05292bf0ad787
+MD5sum: 60b3ba9994f3c2b6729e258804d334e6
+Description: Работа с deb файлами
+
+Package: desert-image-writer
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 166
+Depends: python3 (>= 3.5)
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-image-writer/desert-image-writer_3.0_all.deb
+Size: 45168
+SHA256: 728ddca1cbeffdc874d9adff08e7b98ccbafc3026b6f1ac7b2a16a79f8704870
+SHA1: 1f22358006a7b928ccf50e82f359aec42374455f
+MD5sum: 568ae009b751c2ef9c2f8b93bd72ea01
+Description: Запись образа на USB носитель
+
+Package: desert-session
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-session/desert-session_3.0_all.deb
+Size: 44220
+SHA256: e297d4131528646c8031775c5baf60d1d90e7d39a798289a8954e4edcf61561d
+SHA1: a0006457e5aa746f5eed0fbf397e4d2084ba7315
+MD5sum: e2e74aaffed8810ddb86348a10eaaa84
+Description: Выход из системы
+
+Package: desert-update
+Version: 3.0
+Architecture: all
+Maintainer: Keritskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 606
+Depends: python3-gi, python3:any, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0, python3-apt
+Conflicts: gnome-shell-extension-apt-update-indicator, package-update-indicator, pk-update-icon
+Breaks: gnome-shell-extension-apt-update-indicator, package-update-indicator, pk-update-icon
+Replaces: gnome-shell-extension-apt-update-indicator, package-update-indicator, pk-update-icon
+Priority: optional
+Section: admin
+Filename: pool/main/d/desert-update/desert-update_3.0_all.deb
+Size: 115660
+SHA256: 0baf8adec0edff63d8278e5cbbf66e39523a21085ae28b7141bbcc1cffea207a
+SHA1: 6bbaa18ae3d2e68b052e563153ab3a22289a4978
+MD5sum: 62e6683acb8b884a7bf7ef352eb4f647
+Description: Проверка обновлений
+
+Package: desert-welcome
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 320
+Depends: python3-gi, python3:any, python3 (>= 3.5), gir1.2-gtk-3.0
+Breaks: desert-welcome
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-welcome/desert-welcome_3.0_all.deb
+Size: 122164
+SHA256: 91146e329b6002ab3437018c5e88c365232da3753570da97317b0f98b567732c
+SHA1: d2a1204dab17a007a5301bdacadad8306b545ff1
+MD5sum: 583b0d3d13c7e7cbc75f223acb554215
+Description: Настройка системы при старте
+
