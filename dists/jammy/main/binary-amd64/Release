@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: DESERT App
-Label: DESERT App for Jammy
-Architecture: amd64
-Description: APT repository for DESERT OS software suite
