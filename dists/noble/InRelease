@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Desert App
+Label: Desert App for Noble
+Suite: stable
+Codename: noble
+Date: Sat, 12 Jul 2025 14:00:27 UTC
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+MD5Sum:
+ d0bf1e4ab66a6fa1f50e63c347028b53 9586 main/binary-amd64/Packages
+ d8b2aff29fd9f207289cddd293eb8d19 3469 main/binary-amd64/Packages.gz
+ 706720bcfc25219c355dc8633ffc4965 156 main/binary-amd64/Release
+ 531529e87809b8e2ae4476ddd7a3fab1 6756 main/binary-i386/Packages
+ 8ae7e1c44ae0ff6c8a5ec48eb02033c3 2438 main/binary-i386/Packages.gz
+ 882eea53244752f2ddb4251d7a5deffc 155 main/binary-i386/Release
+SHA1:
+ 68d4d8f3fd1817596338d091cb19986c07459859 9586 main/binary-amd64/Packages
+ a5301f1e9f46f5c8fdce619d32f847ecadd76cc1 3469 main/binary-amd64/Packages.gz
+ 1a94c2b39b26fa2955e0a11f131cca5aa7d7f0ad 156 main/binary-amd64/Release
+ 982a026e13a0cddf828753faab6351aa7ecf0164 6756 main/binary-i386/Packages
+ 71cf050202cf64113422e2cd0069a31f68181b6e 2438 main/binary-i386/Packages.gz
+ 8ef8093d7b60152af1aac628452bce34ae23a20e 155 main/binary-i386/Release
+SHA256:
+ bae8c01d359733a3122431b1dea38001da90bd6e55f7b23d5b6a981206d3ac9d 9586 main/binary-amd64/Packages
+ 702c0a42a039476ae7104f10304b34de5dfdfe1506752d3646941a3be8e73e99 3469 main/binary-amd64/Packages.gz
+ dac932c4175d1fcbfbc0331d00950d397b6fdb8c8d5ee3befa5b59bb4c34f331 156 main/binary-amd64/Release
+ 08b12c017c02a8f14ea152798434bd088beb265de155ce4eea236f6b110e83a4 6756 main/binary-i386/Packages
+ 154e55cb88c0ff62ddb87172aa89efa7cba7ce28439e5ad2f6a572886d2202c4 2438 main/binary-i386/Packages.gz
+ 9fa6147ee4592093b8bafffc9f41c3b0788a99a0c84415714354be6eaddf8fa2 155 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmhyansACgkQmLLtIcxy
+Xiw9vxAAuTgCf8dgB4KhDNJPLn0ImaR2pCjtxtlo6XLfmopJUb1pfP3GZiSPQ8Gi
+R8Rf6Dm1+EjNxjQBy5DhBPSnqm3NDcsob42ex40A+F5iPcrCZM7511L33aI93lOv
+aacxaBmkDCNzs7TGd8UrPyDGbd/0e2nQbNuPOUe/tAkoH0MsvcbSFQunXMTeJs3r
+Rb6feZ4Lu9kMNvrbVhURBOx7D3ZfbiK/NdyduH61OML4EumB8tblgAasZ7IEJ/Vl
+sANC9wWG8izgBkybZBYuyDLYCCY1Tma6KOrljzWjP39o6wXQsWBpG/wrbM8cdxuq
+kNjv3ngvA1A34M9YmZRuTmDjD9y+3obbPQW7QzT5eUkL4DSpNoxIAbegPqqcUQUn
+lDTJFSzoJFAQozH5HWcGLbZ8NBd7x6YGwbdaDoG5T6dDavGhRqUuSAJjvr1MrSrt
+RPary5om9Km7s6m2G9A6SZ+LMGVYHOXeYSyFB8/kjnwvhMw5pSmShIBUNGMA/Ig1
+dgBNRf6ElQxXL1fXmaIc9689ywMa2Dck2kxfDeZ/MB8bdV5MSq1ho30cMaKY8CSd
+0gBfPEwEdwweQ5nTtHZpPlaoysLKr77PfOGpKmSIySreMMUEVgW9jUedXVneB29g
+7J3duuJ7lQAnERSUS6JYljrU9NYW70lRVP/l3ShGa0O3NaAqvW8=
+=CFMr
+-----END PGP SIGNATURE-----
