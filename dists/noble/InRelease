@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Desert App
+Label: Desert App for Noble
+Suite: stable
+Codename: noble
+Date: Sat, 19 Jul 2025 13:35:55 UTC
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+MD5Sum:
+ ef3ba41be0c8e434f5cb56050878406d 10080 main/binary-amd64/Packages
+ 3e1f5df21aad45d45c21d8baf93d3a97 3625 main/binary-amd64/Packages.gz
+ 706720bcfc25219c355dc8633ffc4965 156 main/binary-amd64/Release
+ 450a6ae82f84001d7462cf81ca1b6045 7250 main/binary-i386/Packages
+ bf28a7b30c0b1eb0fa255331725b2c2c 2589 main/binary-i386/Packages.gz
+ 882eea53244752f2ddb4251d7a5deffc 155 main/binary-i386/Release
+SHA1:
+ 23b6a081605a3c45d1e58a79558d40554636675d 10080 main/binary-amd64/Packages
+ 63922c6059f393ed83fa0382b0f1c5594884091b 3625 main/binary-amd64/Packages.gz
+ 1a94c2b39b26fa2955e0a11f131cca5aa7d7f0ad 156 main/binary-amd64/Release
+ b4c054e1b4db436b18f56067b34361494dfa8762 7250 main/binary-i386/Packages
+ 373c3bcae8b2e5d69dcbac024e6075fca06e7c50 2589 main/binary-i386/Packages.gz
+ 8ef8093d7b60152af1aac628452bce34ae23a20e 155 main/binary-i386/Release
+SHA256:
+ 01afbeb6ed98940c1eb48e23a7f558680692adf38756d3224dfd4ee22686d553 10080 main/binary-amd64/Packages
+ 987a6bc5f7f9fccc8db16807b5827a156fffe78218ac57ee8830a90220e5bef2 3625 main/binary-amd64/Packages.gz
+ dac932c4175d1fcbfbc0331d00950d397b6fdb8c8d5ee3befa5b59bb4c34f331 156 main/binary-amd64/Release
+ 63c8400f1ef116cfd76a55853c585b88a9b1de4342541c9c47e7110dfd60430b 7250 main/binary-i386/Packages
+ 71a7907eca3486f3e1d2e6e45964f9db19e2e2bb9c6381bc2f8234558dbc106e 2589 main/binary-i386/Packages.gz
+ 9fa6147ee4592093b8bafffc9f41c3b0788a99a0c84415714354be6eaddf8fa2 155 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmh7nzsACgkQmLLtIcxy
+XiyaLA//ZNsTov1MYzHiRY0QKilYc4ZBKj6Tv3dWMdFrgfK5jZhEbNTdqN0nYrcQ
+ByJ09GFa1XJT1PHt4D3KWohG9wB/hDoTCKGDF7aFYoNj2eA+uEDMUvbIV6B9ZsTB
+FRc0+5DwH//LnqRosKy5TpYrJuIMQ+118BeYlHBjrAjRuLbvNl/tM2O2awBpcEjC
+EhMmLGbTKXOsguJ78jg7WESLp6Tyq07hUIn5k1aIYYygvfkvS/vYvEQ+nEE1N/lq
+gf9dzGovFEUcKftW3Um03YbHhjwaUajYJuES7boAgrJBwbNwlPKNe5j6xbnkyjFf
+kxKh3Jwz6RgwgBWh2U3M/uNoUYbC7N4Hx2PlMwKVb523Wohesqz8EgJiVcLMoxNU
+LcmXXfqOG649IuSaV6foUaUB2n8vsYaSx5Rl7UA3y3s5gjg6dhL3RwwGV6o6gQFM
+62KE4mowwYZoE8NxaKOhR4PNt8nJuwYpkRRpbvcZ2Tq/PDZ2Xp6Nf4NgmSDgVvh2
+LI8yt5qsB6uwCGEPa0W7R0ua5pB9GWnF/O2F/1fWQfyXhJjAFfrshnsoFHWr7ua2
+QbCcdJc51veu4TYb/NL1ljo2IxJwJbZOgleJcrRYzaR8U4RGyDfZvOroM/Uealo4
+7EB52J2Yc23oBO0VpnbhCxxg+fwtROlxo5RRlICagr/B1RLTD74=
+=+9gp
+-----END PGP SIGNATURE-----
