@@ -1,0 +1,29 @@
+Origin: Desert App
+Label: Desert App for Noble
+Suite: stable
+Codename: noble
+Date: Mon, 28 Jul 2025 19:20:00 UTC
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+MD5Sum:
+ 962f472d44e3f703885dfb94a797ccdd 10080 main/binary-amd64/Packages
+ 5aa4141712c62e96f9338b52468bd28e 3627 main/binary-amd64/Packages.gz
+ 706720bcfc25219c355dc8633ffc4965 156 main/binary-amd64/Release
+ 8790301d6a24339f3b438e7c688afe84 7250 main/binary-i386/Packages
+ 0d74b916f047cdbc58ffe5f9607fa956 2590 main/binary-i386/Packages.gz
+ 882eea53244752f2ddb4251d7a5deffc 155 main/binary-i386/Release
+SHA1:
+ 472cff8cf700642978e7a7606c54a3867fa07105 10080 main/binary-amd64/Packages
+ 2227c1c01dab528dbe007a2379a21e8311b06e30 3627 main/binary-amd64/Packages.gz
+ 1a94c2b39b26fa2955e0a11f131cca5aa7d7f0ad 156 main/binary-amd64/Release
+ f77d084cf229f0ec6ac0e84dcb07d2b4266ade42 7250 main/binary-i386/Packages
+ 6538d66da527ac148393f59ef45b29fb8181048c 2590 main/binary-i386/Packages.gz
+ 8ef8093d7b60152af1aac628452bce34ae23a20e 155 main/binary-i386/Release
+SHA256:
+ eb0a5a0b57ecf86523600bd25883e560383ceb2e905f926ffb1bd26a3467b64e 10080 main/binary-amd64/Packages
+ b51e2acabff9627d6c22c808016545db8a734ed0e441d91048be3267aff0d723 3627 main/binary-amd64/Packages.gz
+ dac932c4175d1fcbfbc0331d00950d397b6fdb8c8d5ee3befa5b59bb4c34f331 156 main/binary-amd64/Release
+ 96cc900c2da20552cbe1abfbcf05248fbe89f2a4f93f2ea971aa52b8d4f4a4e0 7250 main/binary-i386/Packages
+ 319d7110c4d88a133bfe8b9c8db2e9fbac0571b18cbc738cf42e9f2fc6c06cd7 2590 main/binary-i386/Packages.gz
+ 9fa6147ee4592093b8bafffc9f41c3b0788a99a0c84415714354be6eaddf8fa2 155 main/binary-i386/Release
