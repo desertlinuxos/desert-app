@@ -1,0 +1,321 @@
+Package: desert-about
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: python3
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-about/desert-about_3.0_all.deb
+Size: 8026
+SHA256: 5e6c847e81d6d9abf2667cd6eabeb75f708a65e228199527bf8b2bbd8a3dfa82
+SHA1: 13eef7da5269bbab4f5357c81707bdb9728fb12b
+MD5sum: 4d93edb4d8134ca3c737d4d05b943ce8
+Description: Информация о системе
+
+Package: desert-app
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: 
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-app/desert-app_3.0_all.deb
+Size: 3332
+SHA256: b9063a1455e2814b9ba8689729a8c4d0c632b355ba9f5f105687a6d5ccbdcc2f
+SHA1: dd288d141f7a8951ff79ed88c67cf0536e66a147
+MD5sum: dbe9ceb31e1cd8338941e1ba703d60fc
+Description: Лаунчер для запуска приложений
+
+Package: desert-appearance
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: conky-all, lua5.4
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-appearance/desert-appearance_3.0_all.deb
+Size: 454326
+SHA256: 9e094900181c69871c44949ddc4168e7a23251b80b911d11dd0c21a6eaa2b5aa
+SHA1: a5f982e8d2c167c69dd9f78bef87ea153edd53f2
+MD5sum: 42d5a75e406976df4c355b1409bfa88a
+Description: Смена оформления системы
+
+Package: desert-builder
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: memtest86+, coreutils, dialog, mkisofs | genisoimage, findutils, bash, passwd, sed, squashfs-tools, casper, rsync, mount, eject, libdebian-installer4, os-prober, user-setup, discover1 | discover, laptop-detect, syslinux, syslinux-common, isolinux, util-linux, aufs-tools | unionfs-fuse, dpkg-dev, policykit-1, python3:any (>= 3.3~), python3-gi, gir1.2-gtk-3.0, gir1.2-vte-2.91, plymouth-x11
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-builder/desert-builder_3.0_all.deb
+Size: 2070422
+SHA256: c23688b3be84bb609b78ec8e58dbaa53cd493964d5bed545f2295e4412596f82
+SHA1: 8aeef612bbc340581ef356e21986f81a90ecb743
+MD5sum: eeadb0ab461b70b39553749469eb27bc
+Description: Программа для создания iso образа системы
+
+Package: desert-calculator
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: python3
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-calculator/desert-calculator_3.0_all.deb
+Size: 2588
+SHA256: a28c8af3a75651462beba355d92ad6895f01d2b6913502a9088f0b1c787020e7
+SHA1: d5defebb4516c2ac18497e056c56ee861e4eed61
+MD5sum: 64054a1927f4536b40427d21ba477add
+Description: Простой калькулятор
+
+Package: desert-calendar
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: python3
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-calendar/desert-calendar_3.0_all.deb
+Size: 3398
+SHA256: 024afcb4b52a42f7c396713369134df66f30fae51f81331be7707f46117148b9
+SHA1: aac8be1c9ef7f25b378a9819ba6de533563c5ed4
+MD5sum: 02580db83d663003c40f72c0c349adf9
+Description: Простой календарь
+
+Package: desert-cleaner
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 3642
+Depends: policykit-1-gnome, gir1.2-vte-2.91, gir1.2-gtk-3.0, gir1.2-notify-0.7, gir1.2-soup-2.4, dconf-gsettings-backend | gsettings-backend
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-cleaner/desert-cleaner_3.0_all.deb
+Size: 49460
+SHA256: faba2591f9d48d4cd959de1fce360305b37303a277443d8914063da8cf3712c5
+SHA1: d8494ac13ba2f57c1f52ff3f206cffbc0a816c58
+MD5sum: 05c990d7d0329c55e39e5489b7ebd26c
+Description: Очистка системы от мусора и ненужных файлов
+
+Package: desert-clock
+Version: 3.0
+Architecture: amd64
+Maintainer: Kernitskiy Yaroslav
+Depends: libc6 (>= 2.4), libsdl-gfx1.2-5 (>= 2.0.25), libsdl-ttf2.0-0, libsdl1.2debian (>= 1.2.11), libx11-6
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-clock/desert-clock_3.0_amd64.deb
+Size: 12122
+SHA256: 1bab6a4677f8e501f7b47d7b48c194114f30e214a16acc991c00a90b5bd4ab6a
+SHA1: 51afd9138c4f8c23a49308d6129481a47728bf0b
+MD5sum: ad150844ab6890ccbec2fb32563d24ea
+Description: Хранитель экрана в виде цифровых часов
+
+Package: desert-compton-settings
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: desert-appearance
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-compton-settings/desert-compton-settings_3.0_all.deb
+Size: 5550
+SHA256: 77d0ab3dcd2208c871f90b9e3c9e06360c83552086c1d8337db14e27a8cb4eb5
+SHA1: 17aeb63311d1b1d58384ce0978632babb5f5120c
+MD5sum: db6484905a188acda4d310087a7e0a56
+Description: Настройки Compton
+
+Package: desert-computer
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 154
+Depends: python3-gi, python3 (>= 3.5), gir1.2-glib-2.0, gir1.2-gtk-3.0
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-computer/desert-computer_3.0_all.deb
+Size: 9452
+SHA256: 4d10dc6fcb0afca0036abc8ff2caf9989624c5bc62ce2877001225ef89810806
+SHA1: a21162bda3d20ee7f6a0204b771c754fbcd0019b
+MD5sum: 617a8e460c7285d10fac6f00d8116d47
+Description: Информация о дисках и съёмных устройствах
+
+Package: desert-control-center
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: 
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-control-center/desert-control-center_3.0_all.deb
+Size: 5064
+SHA256: 104f1d3ce8d405c4c175d1a9390356a05a6b0e44c5c90a17e0f1ee291a82558f
+SHA1: b95e79fab58b8e8c7a146516ef63bbc1816100b0
+MD5sum: 11d937553ef119b0fae70443fded292e
+Description: Центр управления для панели XFCE
+
+Package: desert-deb-installer
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 250
+Depends: python3 (>= 3.5)
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-deb-installer/desert-deb-installer_3.0_all.deb
+Size: 57364
+SHA256: 25946a8601cdea77e4cf2e1f7cd38d04ec3a92b9eaff30deeefbe03cb0b80350
+SHA1: 0799dcb6c03fb40a4ddcc3889aeacc9f2b19107b
+MD5sum: 3e5b620bfb5d17b4d09d6bb74f4abd4e
+Description: Работа с deb файлами
+
+Package: desert-desktop
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: 
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-desktop/desert-desktop_3.0_all.deb
+Size: 22928056
+SHA256: d6a3adb00f3ee72cad9cef153c0a0a63f72f41dcc1bc40e85cb725c439342d37
+SHA1: 2b7b7a894e1c0abdef9650afe60113f6a647aab1
+MD5sum: f0629548dfdf04c5084506ea850a2c0f
+Description: Файлы для оформления DESERT: обои, иконки, темы...
+
+Package: desert-image-writer
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 166
+Depends: python3 (>= 3.5)
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-image-writer/desert-image-writer_3.0_all.deb
+Size: 45180
+SHA256: ed67ce71fe6f94fa6006cf00a6654fec4136946e46984d94efc29fddd6df0b18
+SHA1: 2cecbf4ed2c9d1a7192bc9b2e9d0bd2c0691cbe9
+MD5sum: 349da6871a078287698e39c1f04ee293
+Description: Запись образа на USB носитель
+
+Package: desert-menu
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: 
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-menu/desert-menu_3.0_all.deb
+Size: 2550
+SHA256: 422bf4c280246b89372f5f26de9203a40b9cf55c2092558b4ca1e7b5548c81a7
+SHA1: b933eb3fba3ce5f4dbd944f9c508d1ab4ec09fc7
+MD5sum: f54a12cbb4c1758abfe87f8f2efed17e
+Description: Меню действий для панели XFCE
+
+Package: desert-pen
+Version: 3.0
+Architecture: amd64
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 135
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), libqt5svg5, scrot
+Priority: optional
+Section: education
+Filename: pool/main/d/desert-pen/desert-pen_3.0_amd64.deb
+Size: 59938
+SHA256: 3e74fc7ed8f36e51be56a3a9b98d9a2d4a9498362345a29a45d796a95e1c0be4
+SHA1: 8de8852975f63804cf773ee2288071a597816880
+MD5sum: 7b3706d9d2e96b79b63961dd0cac8b32
+Description: Рисование на экране и сохранение
+
+Package: desert-search
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Depends: 
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-search/desert-search_3.0_all.deb
+Size: 4822
+SHA256: 9f218835f27cd8b2c595cb33bc07cdd61e049537e4db0a548cc6af2c64e32b88
+SHA1: bf08abb5a721f82ed02dfadc5ef57418dd2c64c6
+MD5sum: c630d6cf4b59d81ba77cb891c451c7ff
+Description: Поиск для панели XFCE
+
+Package: desert-session
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Priority: optional
+Section: x11
+Filename: pool/main/d/desert-session/desert-session_3.0_all.deb
+Size: 44228
+SHA256: 167ac462f4025a6c01a4250a3764b08797080acad583f9bd88dfc3038e56efc9
+SHA1: b5df7b90b6b702d92358cacd3e0dcea6afb1d14e
+MD5sum: 7914a9109e66a0e144c64dc8f159921e
+Description: Выход из системы
+
+Package: desert-touch
+Version: 3.0
+Architecture: amd64
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 419
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.68.0), libgtk-3-0 (>= 3.19.12), libinput10 (>= 0.21.0), libpugixml1v5 (>= 1.4), libstdc++6 (>= 11), libudev1 (>= 183), libx11-6, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.2), libxtst6
+Priority: optional
+Section: misc
+Filename: pool/main/d/desert-touch/desert-touch_3.0_amd64.deb
+Size: 137952
+SHA256: 5aa1ef91b94c2c0a179f5eaefe1468e4263185f38e34fd1317a21d435d60cdea
+SHA1: 16886d25bc2864327937ee3a33ca0cda07c8b1f6
+MD5sum: 4f1a31f1e98ed3ba03a6db8650eb9fe7
+Description: Управление окнами с помощью жестов
+
+Package: desert-update
+Version: 3.0
+Architecture: all
+Maintainer: Keritskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 606
+Depends: python3-gi, python3:any, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0, python3-apt
+Conflicts: gnome-shell-extension-apt-update-indicator, package-update-indicator, pk-update-icon
+Breaks: gnome-shell-extension-apt-update-indicator, package-update-indicator, pk-update-icon
+Replaces: gnome-shell-extension-apt-update-indicator, package-update-indicator, pk-update-icon
+Priority: optional
+Section: admin
+Filename: pool/main/d/desert-update/desert-update_3.0_all.deb
+Size: 115662
+SHA256: 5ceee3f55f654bdbbb46fad8dc12b63c594073166c42aa10574e6bbce52df494
+SHA1: 251e976fa94b1042e992c42dd2126a6da147a489
+MD5sum: 70064b9064b7b4da9fc02848180dbef0
+Description: Проверка обновлений
+
+Package: desert-welcome
+Version: 3.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 320
+Depends: python3
+Breaks: desert-welcome
+Priority: optional
+Section: utils
+Filename: pool/main/d/desert-welcome/desert-welcome_3.0_all.deb
+Size: 119252
+SHA256: 4da74a9eae2add311689b1e330706a74fc10040f1a5d31104d4c0db23e401d89
+SHA1: e3384512b396ee446bb521c1b88ab71c1b8d11a7
+MD5sum: eb1dd2b997ce674ae774069179ca7855
+Description: Настройка системы при старте
+
+Package: xfce4-docklike-plugin
+Version: 0.4.2
+Architecture: amd64
+Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
+Installed-Size: 448
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgcc-s1 (>= 3.3.1), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.55.1), libgtk-3-0 (>= 3.21.5), libstdc++6 (>= 11), libwnck-3-0 (>= 3.4.7), libx11-6 (>= 2:1.2.99.901), libxfce4panel-2.0-4 (>= 4.11.0), libxfce4ui-2-0 (>= 4.11.0), libxfce4util7 (>= 4.9.0)
+Multi-Arch: same
+Priority: optional
+Section: xfce
+Filename: pool/main/x/xfce4-docklike-plugin/xfce4-docklike-plugin_0.4.2_amd64.deb
+Size: 103376
+SHA256: 950f742e7497967c471641d5371bf59cd54f83042153857db6f6c8f9547c6d86
+SHA1: a8096b5453acee771108d0f458e0363e130e5302
+MD5sum: 730661d7e99f456a05912c79e86c890a
+Description: modern, docklike, minimalist taskbar for Xfce
+
