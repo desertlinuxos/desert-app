@@ -1,0 +1,9 @@
+# Определение для Ubuntu 24.04 (Noble Numbat)
+Origin: Desert App
+Label: Desert App for Noble
+Suite: stable
+Codename: noble
+Architectures: amd64 i386
+Components: main
+Description: APT repository for DESERT OS software suite
+SignWith: 7FD08CD635492AEE3BBF441198B2ED21CC725E2C
