@@ -155,6 +155,7 @@ SHA1: 0799dcb6c03fb40a4ddcc3889aeacc9f2b19107b
 MD5sum: 3e5b620bfb5d17b4d09d6bb74f4abd4e
 Description: Работа с deb файлами
 
+<<<<<<< HEAD
 Package: desert-desktop
 Version: 3.0
 Architecture: all
@@ -169,6 +170,8 @@ SHA1: fbb04c9c86349e152a9e3b6b0e3348792b921a69
 MD5sum: 2029f96ba4a724f59788fb501567dddc
 Description: Файлы для оформления DESERT: обои, иконки, темы...
 
+=======
+>>>>>>> ecbcc1a575f617df7be986631fb475822822d7da
 Package: desert-image-writer
 Version: 3.0
 Architecture: all
